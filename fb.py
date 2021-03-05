@@ -48,7 +48,7 @@ def function(email,passw,i):
 print('\n---------- Welcome To Facebook BruteForce ----------\n')
 file=open('passwords.txt','r')
 
-email=input('Enter Email/Username : ')
+email=input('Enter Email/Number: ')
 
 print("\nTarget Email ID : ",email)
 print("\nTrying Passwords from list ...")
