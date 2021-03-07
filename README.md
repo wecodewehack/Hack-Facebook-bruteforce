@@ -5,7 +5,7 @@ By Michael David, Bilal Hassan We are Ethical hackers
 
 >> git clone https://github.com/wecodewehack/Hack-Facebook-bruteforce
 
->> cd Facebook-BruteForce
+>> cd Hack-Facebook-bruteForce
 
 >> pip3 install requests bs4
 
