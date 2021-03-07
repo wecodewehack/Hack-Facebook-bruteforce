@@ -1,6 +1,6 @@
 # Hack-Facebook-bruteforce
 Hack Facebook with brute-force
-By Michael David, Bilal Hassan We are Ethical hackers
+By Michael David. I am a Ethical hackers
 >> pkg install python2
 
 >> pkg install python3
